@@ -1,2 +1,29 @@
 Umut Can Bolat - 22102414 - https://github.com/UmutCan00
 Favorite Video Game: Grand Theft Auto V
+PS C:\Users\umutc\OneDrive\Masaüstü\rep\CS-102-Github-Tutorial-Spring-2022> git log
+commit c9388acc5cdeebb5d60f9a0b3e603e7c1ee790e2 (HEAD -> main, origin/main, origin/HEAD) 
+Merge: 5c7bf91 c4d01af
+Author: Umut Can Bolat <91384038+UmutCan00@users.noreply.github.com>
+Date:   Fri Feb 11 23:03:30 2022 +0300
+
+    Merge pull request #1 from UmutCan00/new_information
+    
+    Umut added favorite video game
+
+commit c4d01af8c8464b0bac8edc0093cc7d06d18d14f3 (origin/new_information, new_information)
+Author: UmutCan00 <umutcanbolat03@gmail.com>
+Date:   Fri Feb 11 22:58:24 2022 +0300
+
+    Umut added favorite video game
+
+commit 5c7bf914bd5d20d375d5215c3535c30f65b8366c
+Author: UmutCan00 <umutcanbolat03@gmail.com>
+Date:   Fri Feb 11 22:54:34 2022 +0300
+
+    Umut updated info.txt
+
+commit 049981ec71ef1ff6cc2961601d292bcf4e7379bd
+Author: Umut Can Bolat <91384038+UmutCan00@users.noreply.github.com>
+Date:   Fri Feb 11 22:50:05 2022 +0300
+
+    Initial commit
